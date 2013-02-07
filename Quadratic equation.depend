@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1358223891 source:c:\users\daniel\desktop\cpp\quadratic equation\quadratic.cpp
+	"quadratic.h"
+	<math.h>
+	<iostream>
+
+1358222282 c:\users\daniel\desktop\cpp\quadratic equation\quadratic.h
+
+1358223275 source:c:\users\daniel\desktop\cpp\quadratic equation\main.cpp
+	<iostream>
+	"quadratic.h"
+
+1358223276 source:e:\quadratic equation1\main.cpp
+	<iostream>
+	"quadratic.h"
+
+1358222284 e:\quadratic equation1\quadratic.h
+
+1358223892 source:e:\quadratic equation1\quadratic.cpp
+	"quadratic.h"
+	<math.h>
+	<iostream>
+
+1358292016 source:c:\users\able valued client\desktop\quadratic equation1\main.cpp
+	<iostream>
+	"quadratic.h"
+
+1358222284 c:\users\able valued client\desktop\quadratic equation1\quadratic.h
+
+1358292310 source:c:\users\able valued client\desktop\quadratic equation1\quadratic.cpp
+	"quadratic.h"
+	<math.h>
+	<iostream>
+
+1358292310 source:c:\users\able valued client\desktop\jampong's\data structure\quadratic equation1\quadratic.cpp
+	"quadratic.h"
+	<math.h>
+	<iostream>
+
+1358222284 c:\users\able valued client\desktop\jampong's\data structure\quadratic equation1\quadratic.h
+
+1358292016 source:c:\users\able valued client\desktop\jampong's\data structure\quadratic equation1\main.cpp
+	<iostream>
+	"quadratic.h"
+
+1360251812 source:c:\users\able valued client\desktop\jampong's\data structure\quadraticequation\quadratic.cpp
+	"quadratic.h"
+	<math.h>
+	<iostream>
+
+1360251812 c:\users\able valued client\desktop\jampong's\data structure\quadraticequation\quadratic.h
+
+1360251812 source:c:\users\able valued client\desktop\jampong's\data structure\quadraticequation\main.cpp
+	<iostream>
+	"quadratic.h"
+
